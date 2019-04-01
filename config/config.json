@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "ernestjohanes",
+    "password": 1010,
+    "database": "0201-restAPI",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
